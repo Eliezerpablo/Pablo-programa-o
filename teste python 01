@@ -1,0 +1,5 @@
+print ('ola, mundo')
+print ( 7+4 ) 11
+print ('7'+'7') 77
+print = input ('qual e seu nome?')
+n1 = int ( input ('10'))
